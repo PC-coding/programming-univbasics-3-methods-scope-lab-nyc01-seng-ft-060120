@@ -15,9 +15,8 @@ def link
 end
 
 def all_phrases(name)
-  mario = "It's-a me, Mario!"
-  toadstool = "Thank You Mario! But Our Princess Is In Another Castle!"
-  link = "It's Dangerous To Go Alone! Take This."
-  puts all_phrases
+  puts Mario
+  puts toadstool
+  puts link
 end
   
